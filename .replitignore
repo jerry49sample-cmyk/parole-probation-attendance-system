@@ -1,0 +1,3 @@
+# Toolchain caches and generated Flutter build output
+/.build/
+/build/

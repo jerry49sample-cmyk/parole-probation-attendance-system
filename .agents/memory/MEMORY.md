@@ -1,0 +1,2 @@
+- [Backend choice](backend-choice.md) — this project uses Supabase, not Firebase.
+- [Flutter APK parity](flutter-target.md) — ship Flutter as an APK and treat the React web app as the workflow reference.
